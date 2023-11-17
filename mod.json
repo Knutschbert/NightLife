@@ -1,0 +1,15 @@
+{
+    "repo_url": "https://github.com/Knutschbert/NightLife",
+    "name": "NightLife",
+    "description": "Enables night sky on all official maps.",
+    "mod_type": "Shared",
+    "authors": [ "Nihi" ],
+    "dependencies": [
+        {
+            "repo_url": "https://github.com/Chiv2-Community/ArgonSDK-Mods",
+            "version": ">=0.0.1"
+        }
+    ],
+    "ag_mod": true,
+    "tags": [ "Mutator" ]
+}
