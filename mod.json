@@ -1,7 +1,7 @@
 {
     "repo_url": "https://github.com/Knutschbert/NightLife",
     "name": "NightLife",
-    "description": "Enables night sky on all official maps.",
+    "description": "Enables night sky on all official maps.\n\nF8 - toggle day/night\nPageUp/PageDown - more/less fog (also in day level)",
     "mod_type": "Shared",
     "authors": [ "Nihi" ],
     "dependencies": [
